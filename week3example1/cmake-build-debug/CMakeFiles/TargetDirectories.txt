@@ -1,0 +1,3 @@
+C:/Users/edward.warren/CLionProjects/week3example1/cmake-build-debug/CMakeFiles/week3example1.dir
+C:/Users/edward.warren/CLionProjects/week3example1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/edward.warren/CLionProjects/week3example1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
